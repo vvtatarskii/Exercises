@@ -8,4 +8,16 @@ eight_queensR.py - recursive version
 eight_queensNR.py- non recursive version
 #
 --------------------------- end Eight Queens ------------------------
+#
+------------------------------ Vortex Matrix -------------------------
+#
+Print given matrix starting from the corner by spiral with last printer in the center of the matrix. 
+#
+For the maxtrix [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]]
+#
+It will be: 
+1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10 
+
+
+
 
